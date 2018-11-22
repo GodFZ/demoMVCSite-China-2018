@@ -1,1 +1,8 @@
 wqrewwrqwwr
+不清楚的时候输入一下
+git status
+git add .
+然后在git status
+根据提示来输入
+
+具体的教程看网上git把本地文件上传到远程仓库
